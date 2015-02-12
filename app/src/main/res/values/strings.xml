@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPSTrackApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- string ids for registration.xml -->
+    <string name="username_textview">Username:</string>
+    <string name="password_textview">Password:</string>
+    <string name="submit">Submit</string>
+
+    <!-- string ids for home.xml -->
+    <string name="post_comment">Post Comment</string>
+    <string name="read_comments_title">Recent Comments</string>
+    <string name="passwords_not_same">Passwords don\'t match</string>
+
+</resources>
